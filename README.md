@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yurii Kryvoshei</h1>
-<h3 align="center">A wannabe DevOps</h3>
+<!-- <h3 align="center">A wannabe DevOps</h3> -->
 
 - 🌱 I’m currently learning **DevOps**
 
